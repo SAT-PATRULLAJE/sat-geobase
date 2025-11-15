@@ -1,0 +1,10 @@
+{
+  "jurisdicciones": "data/geobase_juris.json",
+  "localidades": "data/geobase_localidades.json",
+  "cuadrantes": {
+    "1": "data/cuadrante_1.json",
+    "2": "data/cuadrante_2.json",
+    "3": "data/cuadrante_3.json",
+    "4": "data/cuadrante_4.json"
+  }
+}
